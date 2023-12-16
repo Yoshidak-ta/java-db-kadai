@@ -1,4 +1,4 @@
-package text_section09;
+package text.section_09;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
